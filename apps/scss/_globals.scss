@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700&display=swap');
+@import url("https://wallpaperaccess.com/full/2847483.jpg");
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #202020;
+    font-family: "roboto", arial, sans-serif;
+    color: #ddd;
+    line-height: 1.3;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    background-color: #ddd;
+    border-radius: 20px;
+    border: 3px #769D90;
+    color:#769D90;
+    font-size: 4rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    text-align: center;
+    vertical-align: middle;
+}
+h2 {
+    background-color: #ddd;
+    border-radius: 20px;
+    border: 3px #769D90;
+    color: #464646;
+    font-size: 2rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    text-align: center;
+    vertical-align: middle;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 3px;
+    background-color: lightgrey;
+    color: black;
+  }
